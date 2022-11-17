@@ -1,0 +1,21 @@
+.dropdown{
+  width: 0px;
+  height: 0px;
+  background: #fff;
+  box-shadow: 0px 0px 15px 5px rgb(223, 213, 213);
+  text-align: center;
+  box-sizing: border-box;
+  overflow: hidden;
+  transition: height 0.4s;
+  position: absolute;
+}
+.list{
+ 
+ margin-left: -40px;
+}
+.list>li{
+  padding-top: 10px;
+  list-style-type: none;
+  font-family: "PT Sans Narrow";
+  
+}
